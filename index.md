@@ -22,3 +22,13 @@ The significance of the atomic bombs in global history also links Hiroshima to t
 
 
 https://seamoose682.github.io/The-Hiroshima-Project/
+
+
+![a short caption](images/Atomic-Bomb-Daily-Worker-scaled.jpg)
+
+![a short caption](images/BankHiroshima.jpg)
+
+![a short caption](images/japan-shadow.jpg)
+
+![a short caption](images/menu_history_hiroshima.jpg)
+
