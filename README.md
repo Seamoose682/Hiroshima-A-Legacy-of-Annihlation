@@ -1,2 +1,2 @@
 # Hiroshima: A Legacy of Annihilation
-The long-lasting effects of the Atomic Bombing of Hiroshima.
+The enduring remains of the Atomic Bombing.
