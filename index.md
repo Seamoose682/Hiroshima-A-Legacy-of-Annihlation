@@ -1,3 +1,10 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+
+
 # Hiroshima: A Legacy of Annihilation
 
 A spatial history of your place and the places it was tied to.
