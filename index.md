@@ -20,6 +20,13 @@ style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
 
+
+
+
+
+
+
+
 ![a short caption](images/Atomic-Bomb-Daily-Worker-scaled.jpg)
 
 ![a short caption](images/BankHiroshima.jpg)
