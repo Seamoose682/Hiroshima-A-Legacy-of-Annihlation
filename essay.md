@@ -1,5 +1,8 @@
-
-
+---
+layout: default
+title: The Essay
+---
+{% include nav.html %}
 
 **Hiroshima: How Do We Remember Something That No Longer Exists? (Draft)**
 
