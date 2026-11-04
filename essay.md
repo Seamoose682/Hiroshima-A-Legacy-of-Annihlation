@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hiroshima: How Do We Remember Something That No Longer Exists?
+title: The Essay
 ---
 {% include nav.html %}
 
