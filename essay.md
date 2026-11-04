@@ -1,13 +1,11 @@
 
-
-{% include nav.html %}
-
-
 ---
 layout: default
 title: How Do We Remember Something That No Longer Exists?
 ---
 
+
+{% include nav.html %}
 
 
 For my interconnected place I decided to choose the city of Hiroshima and the effects the nuclear bomb had on the city. Of course when choosing a city that had been leveled by an atomic bomb, the initial effects of the blast seem obvious. The entire city was leveled, but there is more to the story than simply just the destruction of the city. Hiroshima is a city whose past has literally been scorched into the ground. Even 81 years later there is still evidence of the Atom bomb left in the city, preserved forever as a reminder of the destruction the splitting of the atom can cause, as well as a symbol of the end of ww2 and the coming of the atomic age and the cold war. Hiroshima is still the site of several buildings that were left standing after the atomic bombing, such as the Genbaku dome which was one of the only buildings left standing in the hypocenter of the blast. The Genbaku dome would later become a peace memorial and a UNESCO World Heritage site, as well as a symbol of the destruction left behind. Other notable surviving buildings near the hypocenter are the former Hiroshima Branch of the Sumitomo Bank whose reinforced concrete frame was left almost completely undamaged by the blast and was even able to return to business only a few days after the bomb dropped. Each of the buildings that remain represent the scars of destruction and death that still exist in Hiroshima today. Many of the buildings that still stand in the city have been turned into peace museums that serve as reminders of the destruction that was caused by the atom bomb. In and around some of the preserved buildings there are still the shadows of some of the victims etched into stone. One consequence of the blast in Hiroshima is that much of the history predating Hiroshima had been lost, including records, architecture, and artifacts from pre-war Hiroshima. Hiroshima Castle, a historical fortress that had been destroyed in the blast, was rebuilt in the 1950s and reopened as a museum to pre-WW2 Japan. 
