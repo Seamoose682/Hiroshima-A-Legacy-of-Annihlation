@@ -1,10 +1,10 @@
 ---
 layout: default
-title: The Essay
+title: Hiroshima: How Do We Remember Something That No Longer Exists? (Draft)
 ---
 {% include nav.html %}
 
-**Hiroshima: How Do We Remember Something That No Longer Exists? (Draft)**
+
 
 
 
