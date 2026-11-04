@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hiroshima: How Do We Remember Something That No Longer Exists? (Draft)
+title: Hiroshima: How Do We Remember Something That No Longer Exists?
 ---
 {% include nav.html %}
 
