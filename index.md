@@ -15,6 +15,7 @@ A spatial history of your place and the places it was tied to.
 style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
+[Read the essay](essay.html)
 
 **Hiroshima: How Do We Remember Something That No Longer Exists? (Draft)*
 
@@ -26,6 +27,7 @@ Some of my sources for Hiroshima include websites of the peace museums and artic
 
 
 https://seamoose682.github.io/The-Hiroshima-Project/
+
 
 
 ![a short caption](images/Atomic-Bomb-Daily-Worker-scaled.jpg)
