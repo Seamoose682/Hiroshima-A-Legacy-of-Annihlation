@@ -17,6 +17,11 @@ A spatial history of your place and the places it was tied to.
 style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
+
+
+
+
+
 [Read the essay](essay.html)
 
 
