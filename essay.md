@@ -9,7 +9,7 @@ title: How Do We Remember Something That No Longer Exists?
 A Legacy of Annihilation 
 
 
-	The story of Hiroshima is one that is tainted with destruction. In the final days of the Second World War, Hiroshima was reduced to rubble by the first atomic bomb on August 6th 1945. In the decades since its destruction, Hiroshima has been completely rebuilt from the ground up, but the legacy of the atomic bomb still lingers over not only the city but the entire world. How is it that we remember so vividly a place that no longer exists?  Even 81 years later, the image of the mushroom cloud over Hiroshima still sits so presently within Japanese, American, and international memory. Hiroshima is no longer just a place; it has been transformed into a symbol of the nuclear annihilation that lingers over our heads today. By mapping the history of Hiroshima, we can examine how its destruction affected places beyond the city itself. By mapping the blast radius, marking the locations of surviving structures as well as memorials and museums dedicated to Hiroshima, and tracing the flight paths of the bombers that dropped the bomb on Hiroshima and Nagasaki, the map illuminates how one destructive event in history unleashed consequences that affected the entire world.
+The story of Hiroshima is one that is tainted with destruction. In the final days of the Second World War, Hiroshima was reduced to rubble by the first atomic bomb on August 6th 1945. In the decades since its destruction, Hiroshima has been completely rebuilt from the ground up, but the legacy of the atomic bomb still lingers over not only the city but the entire world. How is it that we remember so vividly a place that no longer exists?  Even 81 years later, the image of the mushroom cloud over Hiroshima still sits so presently within Japanese, American, and international memory. Hiroshima is no longer just a place; it has been transformed into a symbol of the nuclear annihilation that lingers over our heads today. By mapping the history of Hiroshima, we can examine how its destruction affected places beyond the city itself. By mapping the blast radius, marking the locations of surviving structures as well as memorials and museums dedicated to Hiroshima, and tracing the flight paths of the bombers that dropped the bomb on Hiroshima and Nagasaki, the map illuminates how one destructive event in history unleashed consequences that affected the entire world.
 
 Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945)
 
@@ -18,7 +18,7 @@ A City of Peace.
 	Hiroshima stands today as a city built on cinders; when the atomic bomb hit Hiroshima, it unleashed destruction on an unprecedented level. According to the initial reports of the destruction, over 80% of the city had been destroyed, with an estimate of 100 thousand casualties. In 1949, it was formally proclaimed as a “City of Peace” by the Japanese parliament as a way to advocate for global peace and later, nuclear disarmament. 
 In the wreckage left in Hiroshima after the war, only a handful of buildings were left standing. Many of these surviving buildings were preserved as museums and memorials. The memorials serve as an enduring testament to the destructive consequences of the atomic bomb and a hope for future world peace. 
 
-	An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. 
+An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. 
 	(Source: National Archives, Sep 7th, 1945)
 
 The Genbaku Dome before the Bomb, Hiroshima Peace Memorial Museum
@@ -114,7 +114,7 @@ Grunow, Tristan. “A Reexamination of the ‘Shock of Hiroshima’: The Japanes
 
 Pant, G. S. “Hiroshima: The Lingering Effects.” India International Centre Quarterly 14, no. 2 (1987): 59–68. http://www.jstor.org/stable/23001419.
 
-	Sodei, Rinjiro. “Hiroshima/Nagasaki as History and Politics.” The Journal of American History 82, no. 3 (1995): 1118–23. https://doi.org/10.2307/2945118.
+Sodei, Rinjiro. “Hiroshima/Nagasaki as History and Politics.” The Journal of American History 82, no. 3 (1995): 1118–23. https://doi.org/10.2307/2945118.
 
 U.S. Department of State. "Proclamation by the Heads of Governments, United States, China and the United Kingdom [Potsdam Declaration]." July 26, 1945. In Foreign Relations of the United States: Diplomatic Papers, The Conference of Berlin (The Potsdam Conference), 1945, vol. 2, 1474–76. Washington, DC: U.S. Government Printing Office, 1960. https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1382.
 
