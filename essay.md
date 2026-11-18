@@ -24,7 +24,9 @@ In the wreckage left in Hiroshima after the war, only a handful of buildings wer
 
 The most well-known of the memorials is the Genbaku Dome, also known as the Atom Bomb Dome. Before the bombing, the Genbaku Dome was known as the Hiroshima Prefectural Industrial Promotional Hall. On August 6th, 1945, the first atomic bomb detonated only 150 meters away from the dome. The Genbaku Dome, due to its sturdy architecture, was the only building left standing near the hypocenter. In the 1950s and 1960s, the Hiroshima Peace Memorial Park and Hiroshima Peace Museum were both established around the Genbaku Dome; in 1966, it was established as the Hiroshima Peace Memorial. The Dome became a prominent symbol of non-nuclear proliferation groups and peace movements, and in December 1996, it was designated as a UNESCO World Heritage site. Today, sites like the Genbaku Dome and other memorials and museums are intended to remind the world of what nuclear weapons are capable of, and to advocate for a peaceful future in which these weapons are never unleashed again. 
 
-Bank of Japan, Hiroshima Branch (Source: Toshio Kawamoto)
+![Bank of Japan, Hiroshima Branch (Source: Toshio Kawamoto)](images/HiroshimaBranch.jpg)
+
+
 
 Hiroshima and its legacy on the world.
 Hiroshima’s legacy is also deeply entrenched in many of the events occurring before, during, and after its destruction. Hiroshima’s memory is forever entwined with the end of WW2 and the dramatic entrance into the nuclear age. In late July of 1945, the leaders of the United States, Great Britain, and the Soviet Union assembled at the Potsdam Conference to discuss the end of the war in Europe and soon the end of the war with Japan. On July 26th, during the conference, the United States, Great Britain, and the Republic of China signed the Potsdam Declaration, an ultimatum against Japan. The Soviets abstained from signing the Potsdam Declaration as they weren’t at war with Japan during the conference. The Soviets would declare war on Japan until August 8th of that year.
