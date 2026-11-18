@@ -9,7 +9,7 @@ title: A Legacy of Annihilation
 The story of Hiroshima is one that is tainted with destruction. In the final days of the Second World War, Hiroshima was reduced to rubble by the first atomic bomb on August 6th 1945. In the decades since its destruction, Hiroshima has been completely rebuilt from the ground up, but the legacy of the atomic bomb still lingers over not only the city but the entire world. How is it that we remember so vividly a place that no longer exists?  Even 81 years later, the image of the mushroom cloud over Hiroshima still sits so presently within Japanese, American, and international memory. Hiroshima is no longer just a place; it has been transformed into a symbol of the nuclear annihilation that lingers over our heads today. By mapping the history of Hiroshima, we can examine how its destruction affected places beyond the city itself. By mapping the blast radius, marking the locations of surviving structures as well as memorials and museums dedicated to Hiroshima, and tracing the flight paths of the bombers that dropped the bomb on Hiroshima and Nagasaki, the map illuminates how one destructive event in history unleashed consequences that affected the entire world.
 
 
-![Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945)](images/MushroomCloudHiroshima.jpg)
+![Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945))](images/MushroomCloudHiroshima.jpg)
 
 
 
@@ -20,7 +20,7 @@ In the wreckage left in Hiroshima after the war, only a handful of buildings wer
 
 ![An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. (Source: National Archives, Sep 7th, 1945))](images/atomic-bomb-dome-2.jpg)
 
-![The Genbaku Dome before the Bomb,(Source: Hiroshima Peace Memorial Museum)))](images/atomic-bomb-dome-2.jpg)
+![The Genbaku Dome before the Bomb,(Source: Hiroshima Peace Memorial Museum)))](images/GenbakuDomeBefore.jpg)
 
 
 The most well-known of the memorials is the Genbaku Dome, also known as the Atom Bomb Dome. Before the bombing, the Genbaku Dome was known as the Hiroshima Prefectural Industrial Promotional Hall. On August 6th, 1945, the first atomic bomb detonated only 150 meters away from the dome. The Genbaku Dome, due to its sturdy architecture, was the only building left standing near the hypocenter. In the 1950s and 1960s, the Hiroshima Peace Memorial Park and Hiroshima Peace Museum were both established around the Genbaku Dome; in 1966, it was established as the Hiroshima Peace Memorial. The Dome became a prominent symbol of non-nuclear proliferation groups and peace movements, and in December 1996, it was designated as a UNESCO World Heritage site. Today, sites like the Genbaku Dome and other memorials and museums are intended to remind the world of what nuclear weapons are capable of, and to advocate for a peaceful future in which these weapons are never unleashed again. 
