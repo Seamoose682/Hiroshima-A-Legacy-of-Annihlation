@@ -8,23 +8,23 @@ title: A Legacy of Annihilation
 
 The story of Hiroshima is one that is tainted with destruction. In the final days of the Second World War, Hiroshima was reduced to rubble by the first atomic bomb on August 6th 1945. In the decades since its destruction, Hiroshima has been completely rebuilt from the ground up, but the legacy of the atomic bomb still lingers over not only the city but the entire world. How is it that we remember so vividly a place that no longer exists?  Even 81 years later, the image of the mushroom cloud over Hiroshima still sits so presently within Japanese, American, and international memory. Hiroshima is no longer just a place; it has been transformed into a symbol of the nuclear annihilation that lingers over our heads today. By mapping the history of Hiroshima, we can examine how its destruction affected places beyond the city itself. By mapping the blast radius, marking the locations of surviving structures as well as memorials and museums dedicated to Hiroshima, and tracing the flight paths of the bombers that dropped the bomb on Hiroshima and Nagasaki, the map illuminates how one destructive event in history unleashed consequences that affected the entire world.
 
-![Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945)](images/Hiroshima.jpg)
+!["Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945)"](images/Hiroshima.jpg)
 
-Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945)
+
 
 A City of Peace.
 	Hiroshima stands today as a city built on cinders; when the atomic bomb hit Hiroshima, it unleashed destruction on an unprecedented level. According to the initial reports of the destruction, over 80% of the city had been destroyed, with an estimate of 100 thousand casualties. In 1949, it was formally proclaimed as a “City of Peace” by the Japanese parliament as a way to advocate for global peace and later, nuclear disarmament. 
 In the wreckage left in Hiroshima after the war, only a handful of buildings were left standing. Many of these surviving buildings were preserved as museums and memorials. The memorials serve as an enduring testament to the destructive consequences of the atomic bomb and a hope for future world peace. 
 
 
-![An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. (Source: National Archives, Sep 7th, 1945)](images/atomic-bomb-dome-2.jpg)
+!["An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. (Source: National Archives, Sep 7th, 1945)"](images/atomic-bomb-dome-2.jpg)
 
-![The Genbaku Dome before the Bomb,(Source: Hiroshima Peace Memorial Museum)](images/GenbakuDomeBefore.jpg)
+!["The Genbaku Dome before the Bomb,(Source: Hiroshima Peace Memorial Museum)"](images/GenbakuDomeBefore.jpg)
 
 
 The most well-known of the memorials is the Genbaku Dome, also known as the Atom Bomb Dome. Before the bombing, the Genbaku Dome was known as the Hiroshima Prefectural Industrial Promotional Hall. On August 6th, 1945, the first atomic bomb detonated only 150 meters away from the dome. The Genbaku Dome, due to its sturdy architecture, was the only building left standing near the hypocenter. In the 1950s and 1960s, the Hiroshima Peace Memorial Park and Hiroshima Peace Museum were both established around the Genbaku Dome; in 1966, it was established as the Hiroshima Peace Memorial. The Dome became a prominent symbol of non-nuclear proliferation groups and peace movements, and in December 1996, it was designated as a UNESCO World Heritage site. Today, sites like the Genbaku Dome and other memorials and museums are intended to remind the world of what nuclear weapons are capable of, and to advocate for a peaceful future in which these weapons are never unleashed again. 
 
-![Bank of Japan, Hiroshima Branch (Source: Toshio Kawamoto)](images/HiroshimaBranch.jpg)
+!["Bank of Japan, Hiroshima Branch (Source: Toshio Kawamoto)"](images/HiroshimaBranch.jpg)
 
 
 
@@ -34,8 +34,7 @@ Hiroshima’s legacy is also deeply entrenched in many of the events occurring b
 
 “We call upon the Government of Japan to proclaim now the unconditional surrender of all the Japanese armed forces, and to provide proper and adequate assurances of their good faith in such action. The alternative for Japan is prompt and utter destruction.”  
 
-![From Left To Right, British Prime Minister Churchill, American President Truman, and Soviet Premier Stalin at the Potsdam Conference. (Source: United States Signal Corps, July 26th, 1945)
-](images/TheBigThree.jpg)
+!["From Left To Right, British Prime Minister Churchill, American President Truman, and Soviet Premier Stalin at the Potsdam Conference. (Source: United States Signal Corps, July 26th, 1945)"](images/TheBigThree.jpg)
 
 
 After Japan refused to respond to these demands, the United States attempted to force their hand with the atomic bomb. The Potsdam Declaration was itself influenced by another event that directly led to the bombing of Hiroshima: the Manhattan Project. 
