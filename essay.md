@@ -8,10 +8,9 @@ title: A Legacy of Annihilation
 
 The story of Hiroshima is one that is tainted with destruction. In the final days of the Second World War, Hiroshima was reduced to rubble by the first atomic bomb on August 6th 1945. In the decades since its destruction, Hiroshima has been completely rebuilt from the ground up, but the legacy of the atomic bomb still lingers over not only the city but the entire world. How is it that we remember so vividly a place that no longer exists?  Even 81 years later, the image of the mushroom cloud over Hiroshima still sits so presently within Japanese, American, and international memory. Hiroshima is no longer just a place; it has been transformed into a symbol of the nuclear annihilation that lingers over our heads today. By mapping the history of Hiroshima, we can examine how its destruction affected places beyond the city itself. By mapping the blast radius, marking the locations of surviving structures as well as memorials and museums dedicated to Hiroshima, and tracing the flight paths of the bombers that dropped the bomb on Hiroshima and Nagasaki, the map illuminates how one destructive event in history unleashed consequences that affected the entire world.
 
+![Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945)](images/MushroomCloudHiroshima.jpg)
 
-![Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945))](images/MushroomCloudHiroshima.jpg)
-
-
+Mushroom Cloud Over Hiroshima, (Source: George R. Caron, August 6th, 1945)
 
 A City of Peace.
 	Hiroshima stands today as a city built on cinders; when the atomic bomb hit Hiroshima, it unleashed destruction on an unprecedented level. According to the initial reports of the destruction, over 80% of the city had been destroyed, with an estimate of 100 thousand casualties. In 1949, it was formally proclaimed as a “City of Peace” by the Japanese parliament as a way to advocate for global peace and later, nuclear disarmament. 
