@@ -1,10 +1,7 @@
-
 ---
 layout: default
 title: How Do We Remember Something That No Longer Exists?
 ---
-
-
 {% include nav.html %}
 A Legacy of Annihilation 
 
