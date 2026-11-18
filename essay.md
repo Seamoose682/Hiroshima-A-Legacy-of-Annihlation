@@ -17,10 +17,11 @@ A City of Peace.
 	Hiroshima stands today as a city built on cinders; when the atomic bomb hit Hiroshima, it unleashed destruction on an unprecedented level. According to the initial reports of the destruction, over 80% of the city had been destroyed, with an estimate of 100 thousand casualties. In 1949, it was formally proclaimed as a “City of Peace” by the Japanese parliament as a way to advocate for global peace and later, nuclear disarmament. 
 In the wreckage left in Hiroshima after the war, only a handful of buildings were left standing. Many of these surviving buildings were preserved as museums and memorials. The memorials serve as an enduring testament to the destructive consequences of the atomic bomb and a hope for future world peace. 
 
-An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. 
-	(Source: National Archives, Sep 7th, 1945)
 
-The Genbaku Dome before the Bomb, Hiroshima Peace Memorial Museum
+![An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. (Source: National Archives, Sep 7th, 1945))](images/atomic-bomb-dome-2.jpg)
+
+![The Genbaku Dome before the Bomb,(Source: Hiroshima Peace Memorial Museum)))](images/atomic-bomb-dome-2.jpg)
+
 
 The most well-known of the memorials is the Genbaku Dome, also known as the Atom Bomb Dome. Before the bombing, the Genbaku Dome was known as the Hiroshima Prefectural Industrial Promotional Hall. On August 6th, 1945, the first atomic bomb detonated only 150 meters away from the dome. The Genbaku Dome, due to its sturdy architecture, was the only building left standing near the hypocenter. In the 1950s and 1960s, the Hiroshima Peace Memorial Park and Hiroshima Peace Museum were both established around the Genbaku Dome; in 1966, it was established as the Hiroshima Peace Memorial. The Dome became a prominent symbol of non-nuclear proliferation groups and peace movements, and in December 1996, it was designated as a UNESCO World Heritage site. Today, sites like the Genbaku Dome and other memorials and museums are intended to remind the world of what nuclear weapons are capable of, and to advocate for a peaceful future in which these weapons are never unleashed again. 
 
