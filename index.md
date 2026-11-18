@@ -13,7 +13,7 @@ A spatial history of your place and the places it was tied to.
 
 ## Hiroshima as an Interconnected Place.
 
-<iframe src="map/" width="200%" height="520"
+<iframe src="map/" width="120%" height="520"
 style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
