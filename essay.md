@@ -43,7 +43,7 @@ Hiroshima’s legacy is also deeply entrenched in many of the events occurring b
 
 After Japan refused to respond to these demands, the United States attempted to force their hand with the atomic bomb. The Potsdam Declaration was itself influenced by another event that directly led to the bombing of Hiroshima: the Manhattan Project. 
 
-![](images/TheBigThree.jpg)
+![](images/trinity_shot_color.jpg)
 *The Only Color Photo Taken of the Trinity Test. Source, Jack Aeby, July 16th, 1945*
 
 
