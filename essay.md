@@ -19,17 +19,17 @@ In the wreckage left in Hiroshima after the war, only a handful of buildings wer
 
 
 ![](images/atomic-bomb-dome-2.jpg)
-*An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. National Archives, Sep 7th, 1945*
+*An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. Source: National Archives, Sep 7th, 1945*
 
 
 
 ![](images/GenbakuDomeBefore.jpg)
-*The Genbaku Dome before the Bomb, Hiroshima Peace Memorial Museum*
+*The Genbaku Dome before the Bomb, Source: Hiroshima Peace Memorial Museum*
 
 The most well-known of the memorials is the Genbaku Dome, also known as the Atom Bomb Dome. Before the bombing, the Genbaku Dome was known as the Hiroshima Prefectural Industrial Promotional Hall. On August 6th, 1945, the first atomic bomb detonated only 150 meters away from the dome. The Genbaku Dome, due to its sturdy architecture, was the only building left standing near the hypocenter. In the 1950s and 1960s, the Hiroshima Peace Memorial Park and Hiroshima Peace Museum were both established around the Genbaku Dome; in 1966, it was established as the Hiroshima Peace Memorial. The Dome became a prominent symbol of non-nuclear proliferation groups and peace movements, and in December 1996, it was designated as a UNESCO World Heritage site. Today, sites like the Genbaku Dome and other memorials and museums are intended to remind the world of what nuclear weapons are capable of, and to advocate for a peaceful future in which these weapons are never unleashed again. 
 
-!["Bank of Japan, Hiroshima Branch (Source: Toshio Kawamoto)"](images/HiroshimaBranch.jpg)
-
+![](images/HiroshimaBranch.jpg)
+*Bank of Japan, Hiroshima Branch Source: Toshio Kawamoto*
 
 
 Hiroshima and its legacy on the world.
@@ -38,10 +38,11 @@ Hiroshima’s legacy is also deeply entrenched in many of the events occurring b
 
 “We call upon the Government of Japan to proclaim now the unconditional surrender of all the Japanese armed forces, and to provide proper and adequate assurances of their good faith in such action. The alternative for Japan is prompt and utter destruction.”  
 
-!["From Left To Right, British Prime Minister Churchill, American President Truman, and Soviet Premier Stalin at the Potsdam Conference. (Source: United States Signal Corps, July 26th, 1945)"](images/TheBigThree.jpg)
-
+![](images/TheBigThree.jpg)
+*From Left To Right, British Prime Minister Churchill, American President Truman, and Soviet Premier Stalin at the Potsdam Conference. Source: United States Signal Corps, July 26th, 1945*
 
 After Japan refused to respond to these demands, the United States attempted to force their hand with the atomic bomb. The Potsdam Declaration was itself influenced by another event that directly led to the bombing of Hiroshima: the Manhattan Project. 
+
 
 The Only Color Photo Taken of the Trinity Test. (Source, Jack Aeby, July 16th, 1945)
 
