@@ -20,8 +20,11 @@ In the wreckage left in Hiroshima after the war, only a handful of buildings wer
 
 ![](images/atomic-bomb-dome-2.jpg)
 *An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. National Archives, Sep 7th, 1945*
-!["The Genbaku Dome before the Bomb,(Source: Hiroshima Peace Memorial Museum)"](images/GenbakuDomeBefore.jpg)
 
+
+
+![](images/GenbakuDomeBefore.jpg)
+*The Genbaku Dome before the Bomb, Hiroshima Peace Memorial Museum*
 
 The most well-known of the memorials is the Genbaku Dome, also known as the Atom Bomb Dome. Before the bombing, the Genbaku Dome was known as the Hiroshima Prefectural Industrial Promotional Hall. On August 6th, 1945, the first atomic bomb detonated only 150 meters away from the dome. The Genbaku Dome, due to its sturdy architecture, was the only building left standing near the hypocenter. In the 1950s and 1960s, the Hiroshima Peace Memorial Park and Hiroshima Peace Museum were both established around the Genbaku Dome; in 1966, it was established as the Hiroshima Peace Memorial. The Dome became a prominent symbol of non-nuclear proliferation groups and peace movements, and in December 1996, it was designated as a UNESCO World Heritage site. Today, sites like the Genbaku Dome and other memorials and museums are intended to remind the world of what nuclear weapons are capable of, and to advocate for a peaceful future in which these weapons are never unleashed again. 
 
