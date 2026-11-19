@@ -18,8 +18,8 @@ A City of Peace.
 In the wreckage left in Hiroshima after the war, only a handful of buildings were left standing. Many of these surviving buildings were preserved as museums and memorials. The memorials serve as an enduring testament to the destructive consequences of the atomic bomb and a hope for future world peace. 
 
 
-!["An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. (Source: National Archives, Sep 7th, 1945)"](images/atomic-bomb-dome-2.jpg)
-
+![](images/atomic-bomb-dome-2.jpg)
+*An Allied Correspondent Standing Outside in the Rubble around the Genbaku Dome. National Archives, Sep 7th, 1945*
 !["The Genbaku Dome before the Bomb,(Source: Hiroshima Peace Memorial Museum)"](images/GenbakuDomeBefore.jpg)
 
 
