@@ -100,9 +100,11 @@ While the map reveals a lot about Hiroshima itself, the map cannot effectively r
 Hibakusha also often suffered from societal ostracization and discrimination due to fears that they were “contaminated” or “unclean” due to exposure to the bomb, struggling to find jobs or get married. There are so many stories of hardship and trauma that simply cannot be seen just by looking at a map of Hiroshima. These survivors are incredibly important to Hiroshima’s story, because they are living reminders of atomic devastation. There is a piece of the Hiroshima that no longer exists, still enduring within each of the survivors who witnessed its destruction. 
 
 ![](images/40.jpg)
+
 *I crawled desperately and got out from under my house. Crowds of people were fleeing to the north. Some were staggering along with such terrible injuries that their skin was hanging in shreds. Others sat by the road staring vacantly into space. The sight of human beings in this state is beyond imagination. Source: Drawn by Mitsuko Matsutomi, Special Exhibit: A-bomb Drawings—A People's Record of Hiroshima, Hiroshima Peace Memorial Museum,*
 
 ![](images/44s.jpg)
+
 *Injured people fled along the river to avoid the flames. Then, the black rain fell. Source: Kichinosuke Tamada, Special Exhibit: A-bomb Drawings—A People's Record of Hiroshima, Hiroshima Peace Memorial Museum,* 
 
 
@@ -110,9 +112,11 @@ An example of this can be seen in a special exhibit put together by the Hiroshim
 
 
 ![](images/43s.jpg)
+
 *Crossing Misasa Bridge carrying a boy who was injured and calling for help. Source: Drawn by Kichinosuke Tamada, Special Exhibit: A-bomb Drawings—A People's Record of Hiroshima, Hiroshima Peace Memorial Museum,*
 
 ![](images/87s.jpg)
+
 *People went completely bald, bled from their skin and gums, and later died. Source: Drawn by Fumie Munakata Special Exhibit: A-bomb Drawings—A People's Record of Hiroshima, Hiroshima Peace Memorial Museum,*
 
 The role of Hibakusha as advocates for peace and nuclear non-proliferation is significant. Organisations such as Nihon Hidankyo (Japan Confederation of A- and H-Bomb Sufferers Organizations) were formed from the survivors of the atomic bomb to advocate for the abolition of nuclear weapons and a more peaceful world.
