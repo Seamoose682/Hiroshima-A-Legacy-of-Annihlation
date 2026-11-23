@@ -9,7 +9,7 @@ layout: default
 
 # Hiroshima: A Legacy of Annihilation
 
-A spatial history of your place and the places it was tied to.
+A spatial history of the Japanese City of Hiroshima and its place in an interconnected world!
 
 ## Hiroshima as an Interconnected Place.
 
