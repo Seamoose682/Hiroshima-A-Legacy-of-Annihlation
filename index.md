@@ -25,20 +25,3 @@ style="border:1px solid #ccc; border-radius:8px;"></iframe>
 [Read the essay](essay.html)
 
 
-
-
-
-
-
-
-
-
-
-![a short caption](images/Atomic-Bomb-Daily-Worker-scaled.jpg)
-
-![a short caption](images/BankHiroshima.jpg)
-
-![a short caption](images/japan-shadow.jpg)
-
-![a short caption](images/menu_history_hiroshima.jpg)
-
